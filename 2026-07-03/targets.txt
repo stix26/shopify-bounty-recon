@@ -1,0 +1,25 @@
+# Shopify Bug Bounty - In-Scope Targets (July 3, 2026)
+# Source: HackerOne program handle: shopify
+# Generated: 2026-07-03
+
+# Wildcards (eligible for bounty)
+*.shopify.com
+*.shopifycloud.com
+*.shopify.io
+*.shopifycs.com
+*.shopifykloud.com
+*.pci.shopifyinc.com
+
+# URLs (eligible for bounty)
+shopifyinbox.com
+linkpop.com
+partners.shopify.com
+shopify.plus
+arrive-server.shopifycloud.com
+shop.app
+your-store.myshopify.com
+accounts.shopify.com
+admin.shopify.com
+
+# Source code
+https://github.com/Shopify/*
